@@ -6,6 +6,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
+
 ####  This simple blogging platform is built with a MERN (MongoDB, Express.js, React, Node.js) stack.  
 
 #### It allows users to create, read, update, and delete posts. The application supports user authentication, post management, and provides a clean and intuitive user interface.
